@@ -98,7 +98,7 @@ Build a master DataFrame through 5 sequential merges:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dhanushprasad2003/study.git
+   git clone https://github.com/dhanushprasad2003/Movie_Rental_Analysis.git
    cd study
    ```
 
